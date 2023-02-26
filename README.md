@@ -13,14 +13,17 @@ This application is built using Python Django and Ajax to provide a real-time ch
 
 
 **Usage**
+
 To use the application, follow these steps:
 - Register an account and log in to the application.
 - Create a chat room or join an existing one.
 - Start chatting with other users in real-time.
 
 **Credits**
+
 The design theme of the project is inspired by the movie "The Matrix".
 The project is built using Python Django and Ajax for real-time features.
 
 **License**
+
 This project is licensed under the MIT License. See the LICENSE file for more information.
